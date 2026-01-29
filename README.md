@@ -5,6 +5,8 @@ Markdown とテキストの読み込み・保存に対応し、リッチテキ�
 
 English README: [README.en.md](README.en.md)
 
+<img width="256" height="256" alt="icon" src="https://github.com/user-attachments/assets/82c87c7b-01f6-4b67-9773-a3da8b970803" />
+
 <details><summary>プレビュー</summary>
 
 <img width="1920" height="1080" src="https://github.com/user-attachments/assets/ca21d710-7dc7-4e40-84e4-e1f709bc3e86" />
