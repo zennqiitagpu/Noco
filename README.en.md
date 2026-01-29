@@ -19,6 +19,8 @@ It supports reading and saving Markdown and text files with rich text editing.
 
 <img width="1920" height="1080" src="https://github.com/user-attachments/assets/0c6dc2ba-a950-45a4-bb59-3e09fa5739ec" />
 
+Background：[歳](https://www.pixiv.net/users/107960003)
+
 </details>
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](buymeacoffee.com/zennqiitagp)
