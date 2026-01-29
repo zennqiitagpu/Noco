@@ -39,7 +39,7 @@ English README: [README.en.md](README.en.md)
   - 行の折り返しオン/オフ、ツールバー表示の切り替え
 - UI 操作
   - 設定パネルの開閉（右下の歯車ボタン）
-  - Windows はカスタムタイトルバー/リサイズハンドルを使用
+  - カスタムタイトルバー/リサイズハンドルを使用
 - エディタのズーム（Ctrl + マウスホイール、Ctrl + 0 でリセット）
 - 終了時にタブ状態と設定を保存し、次回起動時に復元
 
@@ -52,5 +52,5 @@ English README: [README.en.md](README.en.md)
 - Ctrl + B: 太字
 - Ctrl + I: 斜体
 - Ctrl + Z: 元に戻す
-- Ctrl + Y または Ctrl/Cmd + Shift + Z: やり直す
+- Ctrl + Y または Ctrl + Shift + Z: やり直す
 - Ctrl + 0: ズームリセット
