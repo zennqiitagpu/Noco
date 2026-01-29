@@ -5,6 +5,22 @@ It supports reading and saving Markdown and text files with rich text editing.
 
 日本語版: [README.md](README.md)
 
+<details><summary>Preview</summary>
+
+<img width="1920" height="1080" src="https://github.com/user-attachments/assets/ca21d710-7dc7-4e40-84e4-e1f709bc3e86" />
+
+<img width="1920" height="1080" src="https://github.com/user-attachments/assets/11044b19-918e-4588-af7e-dc732ef5f1a0" />
+
+<img width="1920" height="1080" src="https://github.com/user-attachments/assets/190fe219-831a-409a-9548-950008fbc68a" />
+
+<img width="1920" height="1080" src="https://github.com/user-attachments/assets/11b193ce-d368-4da3-951b-4b006b48889e" />
+
+<img width="1920" height="1080" src="https://github.com/user-attachments/assets/75ee0f64-e58b-44e6-9159-c2bf3dc50fc4" />
+
+<img width="1920" height="1080" src="https://github.com/user-attachments/assets/0c6dc2ba-a950-45a4-bb59-3e09fa5739ec" />
+
+</details>
+
 ## Target OS
 
 - Windows
