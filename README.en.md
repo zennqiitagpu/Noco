@@ -5,7 +5,7 @@ It supports reading and saving Markdown and text files with rich text editing.
 
 日本語版: [README.md](README.md)
 
-## Tested OS
+## Target OS
 
 - Windows
 
@@ -39,35 +39,18 @@ It supports reading and saving Markdown and text files with rich text editing.
   - Line wrap toggle and toolbar visibility
 - UI interactions
   - Toggle the settings panel (floating gear button)
-  - Windows uses a custom title bar and resize handles (Linux uses the native title bar)
-- Editor zoom (Ctrl/Cmd + mouse wheel, Ctrl/Cmd + 0 to reset)
+  - Custom title bar and resize handles
+- Editor zoom (Ctrl + mouse wheel, Ctrl + 0 to reset)
 - Save tab state and settings on exit, restore on next launch
 
 ## Keyboard Shortcuts
 
-- Ctrl/Cmd + S: Save
-- Ctrl/Cmd + O: Open
-- Ctrl/Cmd + T: New tab
-- Ctrl/Cmd + W: Close tab
-- Ctrl/Cmd + B: Bold
-- Ctrl/Cmd + I: Italic
-- Ctrl/Cmd + Z: Undo
-- Ctrl/Cmd + Y or Ctrl/Cmd + Shift + Z: Redo
-- Ctrl/Cmd + 0: Reset zoom
-
-## Development
-
-```bash
-npm install
-npm run start
-```
-
-## Build
-
-```bash
-# Build for all targets (per config)
-npm run dist
-
-# Windows build
-npm run dist:win
-```
+- Ctrl + S: Save
+- Ctrl + O: Open
+- Ctrl + T: New tab
+- Ctrl + W: Close tab
+- Ctrl + B: Bold
+- Ctrl + I: Italic
+- Ctrl + Z: Undo
+- Ctrl + Y or Ctrl + Shift + Z: Redo
+- Ctrl + 0: Reset zoom
