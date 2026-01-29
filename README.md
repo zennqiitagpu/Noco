@@ -5,7 +5,7 @@ Markdown とテキストの読み込み・保存に対応し、リッチテキ�
 
 English README: [README.en.md](README.en.md)
 
-## テスト済みOS
+## 対象OS
 
 - Windows
 
@@ -39,35 +39,18 @@ English README: [README.en.md](README.en.md)
   - 行の折り返しオン/オフ、ツールバー表示の切り替え
 - UI 操作
   - 設定パネルの開閉（右下の歯車ボタン）
-  - Windows はカスタムタイトルバー/リサイズハンドルを使用（Linux はネイティブタイトルバー）
-- エディタのズーム（Ctrl/Cmd + マウスホイール、Ctrl/Cmd + 0 でリセット）
+  - Windows はカスタムタイトルバー/リサイズハンドルを使用
+- エディタのズーム（Ctrl + マウスホイール、Ctrl + 0 でリセット）
 - 終了時にタブ状態と設定を保存し、次回起動時に復元
 
 ## キーボードショートカット
 
-- Ctrl/Cmd + S: 保存
-- Ctrl/Cmd + O: 開く
-- Ctrl/Cmd + T: 新規タブ
-- Ctrl/Cmd + W: タブを閉じる
-- Ctrl/Cmd + B: 太字
-- Ctrl/Cmd + I: 斜体
-- Ctrl/Cmd + Z: 元に戻す
-- Ctrl/Cmd + Y または Ctrl/Cmd + Shift + Z: やり直す
-- Ctrl/Cmd + 0: ズームリセット
-
-## 開発・実行
-
-```bash
-npm install
-npm run start
-```
-
-## ビルド
-
-```bash
-# すべてのプラットフォーム向け（設定に従って出力）
-npm run dist
-
-# Windows 向け
-npm run dist:win
-```
+- Ctrl + S: 保存
+- Ctrl + O: 開く
+- Ctrl + T: 新規タブ
+- Ctrl + W: タブを閉じる
+- Ctrl + B: 太字
+- Ctrl + I: 斜体
+- Ctrl + Z: 元に戻す
+- Ctrl + Y または Ctrl/Cmd + Shift + Z: やり直す
+- Ctrl + 0: ズームリセット
