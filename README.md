@@ -1,3 +1,5 @@
+<img width="1280" height="640" alt="banner" src="https://github.com/user-attachments/assets/e9934617-aae4-4a87-a828-b9adfd82d587" />
+
 # Noco
 
 Noco は、タブ管理と外観カスタマイズを備えたデスクトップ向けノートエディタです。  
