@@ -21,6 +21,8 @@ English README: [README.en.md](README.en.md)
 
 </details>
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](buymeacoffee.com/zennqiitagp)
+
 ## 対象OS
 
 - Windows
