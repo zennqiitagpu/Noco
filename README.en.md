@@ -46,6 +46,8 @@ Background：[歳](https://www.pixiv.net/users/107960003)
   - Insert tables with row/column size, add/remove rows and columns (context menu)
   - Copy tables as TSV
   - Paste TSV/CSV/HTML tables to create tables
+  - Pasting a table inside a table overwrites/expands from the selected cell
+  - Tables with merged cells are flattened on paste (content kept in top-left cell)
 - File I/O
   - Read and save Markdown (.md/.markdown) and text (.txt)
   - Choose .md or .txt when saving (Save As supported)
